@@ -1,0 +1,22 @@
+table{
+    table-layout: fixed;
+    background: rgb(255, 255, 255);
+    
+}
+table th{
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 05);
+    
+    background: rgb(124, 104, 203);
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+tr:hover {background-color: rgba(192, 222, 229, 0.996);}
+table td{
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    padding: 10px;
+}
+
+
+
+    

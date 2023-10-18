@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Mali&display=swap');
+*{
+  box-sizing: border-box;
+}
+body{
+  background: rgb(230, 225, 219);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Mali', cursive;
+  padding: 15px;
+}
+.container{
+  margin: 30 auto;
+  width: 350px;
+}
+
+.add{
+  
+  background-color: rgb(19, 163, 135);
+  color: white;
+  padding: 8px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  
+}
+.App p{
+  text-align: right;
+}
+
+
+/* .view{
+  border: none;
+} */
+/* .edit{
+  border: none;
+}
+.delete{
+  border: none;
+} */
